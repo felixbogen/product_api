@@ -1,0 +1,16 @@
+{
+  "name": "product_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Felix B",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14"
+  },
+    "scripts": {
+    "start": "nodemon index.js"
+  }
+}
